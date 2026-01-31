@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @torransemple, I’m a fourth-year PhD student based in the Faculty of Engineering @ University of Nottingham
+- Hi, I’m @torransemple, I’m a postdoctoral researcher in the Department of Engineering Science at the University of Oxford
 - I’m interested in applying statistical & ML techniques to public health, socioeconomic and energy data
 - See here for a full list of my publications: https://scholar.google.com/citations?user=LmNGBAsAAAAJ&hl=en 
 <!---
